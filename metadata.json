@@ -1,0 +1,6 @@
+{
+  "name": "AquilCart — Mobile Grocery Marketplace",
+  "description": "Demand-driven grocery ecosystem connecting customers, shop owners, wholesale dealers, and offer providers with budget intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
